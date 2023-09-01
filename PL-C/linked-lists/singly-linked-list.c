@@ -75,6 +75,7 @@ int traversing(int start) {
         if (data == NULL) {
             printf("\nNode are not found.\n");
         } else {
+            printf("\nINFO[%d], LINK[%d]: ", start, start);
             printNode(data, pointer);
             traversing(pointer);
         }
