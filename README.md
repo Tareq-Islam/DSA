@@ -8,7 +8,7 @@ I am excited to announce the creation of a GitHub repository dedicated to Data S
 
 *Repository Highlights:
 
-Multi-Language Support: We'll cover DSA implementations in popular languages such as Python, Java, C++, JavaScript, and more. This diversity enables learners and professionals to explore DSA in their preferred language.
+Multi-Language Support: We'll cover DSA implementations in popular languages such as C, C#, C++, JavaScript, and more. This diversity enables learners and professionals to explore DSA in their preferred language.
 
 In-Depth Explanations: Each DSA implementation will be accompanied by detailed explanations, making it accessible to both beginners and experienced developers.
 
